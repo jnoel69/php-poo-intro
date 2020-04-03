@@ -1,4 +1,4 @@
-Placez vous à la racine du projet, puis lancez le serveur dans un terminal:
+Placez vous sur votre chaise.
 
 ```php -S localhost:8000```
 
