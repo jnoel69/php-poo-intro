@@ -10,7 +10,7 @@ $perso2 = new Personnage; // Un second personnage
 $perso1->setForcePerso(10);
 $perso1->setExperience(2);
 
-$perso2->setForcePerso(90);
+$perso2->setForcePerso(100);
 $perso2->setExperience(58);
 
 $perso1->frapper($perso2);  // $perso1 frappe $perso2
